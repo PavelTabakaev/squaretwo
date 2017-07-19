@@ -3641,3 +3641,7 @@ button {
     -webkit-transform: rotate(60deg);
         -ms-transform: rotate(60deg);
             transform: rotate(60deg); }
+@media screen and (max-width: 1350px) {
+  .scene {
+    display: none;
+  }
